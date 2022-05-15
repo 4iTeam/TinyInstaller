@@ -34,7 +34,7 @@ Link dự phòng (Mega): [w2012.ktvps.img.gz](https://mega.nz/file/zOhyUSLB#C6dH
 Mật khẩu sẽ được đăng trong nhóm [Kiến Thức VPS](https://www.facebook.com/groups/kienthuc.vps) nhé
 
 ## Bản pro
-* Chạy trên hầu hết các VPS KVM (Vulr, Linode, Do) kể cả Oracle Cloud(gói free 1GB ram), Google Cloud, Clone Cone, SSD Nodes
+* Chạy trên hầu hết các VPS KVM (Vulr, Linode, Do) kể cả Oracle Cloud(gói free 1GB ram), Azure, Google Cloud, Clone Cone, SSD Nodes
 * Tự nhận địa chỉ IP bất kể nhà cung cấp dùng IP tĩnh hay động
 * Tự mở rộng ổ đĩa nhận đủ kích thước ổ đĩa của vps ngay khi bật lên mà không cần phải Expand trong disk management
 * Bản quyền dùng thử 180 days và còn nguyên 5 lần rearm (reset), tức là có thể dùng thử lên đến 6*180=1080 ngày (~ 3 năm)
