@@ -16,12 +16,20 @@ Bản gz miễn phí win 2012R2 nhỏ gọn chỉ có 36 process chiếm 0.6GB r
 
 ![Win2012R2 By Kiến Thức VPS](w2012.ktvps.img.png)
 
+Link trực tiếp: http://ktvps.4it.top/w2012.ktvps.img.gz
 
-```console
-
+Lệnh cài đặt (lưu ý kiểm tra link còn sống ko trước khi chạy nhé)
+```shell
+wget https://4iteam.github.io/TinyInstaller/ti.sh && bash ti.sh http://ktvps.4it.top/w2012.ktvps.img.gz
 ```
 
-Link dự phòng (Mega): [w2012.ktvps.img.gz](https://mega.nz/file/zOhyUSLB#C6dH1ZW2c68Xu4R2LR2KZ9ozkkEMLSORmmKpBzT2qVw)
+Ngoài ra có thể dùng lệnh sau trong chế độ recovery
+```shell
+wget -O- http://ktvps.4it.top/w2012.ktvps.img.gz | gunzip | dd of=/dev/vda
+```
+_Lưu ý thay /dev/vda bằng ổ đĩa tương ứng nếu không đúng. Một số vps sẽ là /dev/sda_
+
+Link dự phòng (Mega): [w2012.ktvps.img.gz](https://mega.nz/file/zOhyUSLB#C6dH1ZW2c68Xu4R2LR2KZ9ozkkEMLSORmmKpBzT2qVw) (Cần tải về và up lên host để lấy link trực tiếp nhé).
 
 Mật khẩu sẽ được đăng trong nhóm [Kiến Thức VPS](https://www.facebook.com/groups/kienthuc.vps) nhé
 
