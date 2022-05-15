@@ -18,7 +18,7 @@ Bản gz miễn phí win 2012R2 nhỏ gọn chỉ có 36 process chiếm 0.6GB r
 
 ```
 
-Mật khẩu sẽ được đăng trong nhóm nhé
+Mật khẩu sẽ được đăng trong nhóm [Kiến Thức VPS](https://www.facebook.com/groups/kienthuc.vps) nhé
 
 ## Bản pro
 Mình có bán bản pro chạy được cả trên Oracle, Google Cloud, OVH.
