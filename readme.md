@@ -10,10 +10,12 @@ wget https://github.com/4iTeam/TinyInstaller/raw/main/ti.sh
 bash ti.sh "link tới file gz"
 ```
 ## Win2012R2
-Bản này có thể chạy trên Vultr, Do, Linode, Azure 1 số cấu hình, và các vps KVM khác
+Bản gz miễn phí win 2012R2 nhỏ gọn chỉ có 36 process chiếm 0.6GB ram và 7.5GB disk. Có thể chạy tốt trên hầu hết VPS KVM
+
+![Win2012R2 By Kiến Thức VPS](w2012.ktvps.img.png)
 
 ```console
-wget https://github.com/4iTeam/TinyInstaller/raw/main/w2012.sh && sh w2012.sh
+
 ```
 
 Mật khẩu sẽ được đăng trong nhóm nhé
