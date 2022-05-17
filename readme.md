@@ -31,7 +31,8 @@ _Lưu ý thay /dev/vda bằng ổ đĩa tương ứng nếu không đúng. Một
 
 Link dự phòng (Mega): [w2012.ktvps.img.gz](https://mega.nz/file/zOhyUSLB#C6dH1ZW2c68Xu4R2LR2KZ9ozkkEMLSORmmKpBzT2qVw) (Cần tải về và up lên host để lấy link trực tiếp nhé).
 
-Mật khẩu sẽ được đăng trong nhóm [Kiến Thức VPS](https://www.facebook.com/groups/kienthuc.vps) nhé
+Thông tin đăng nhập vps: `KienThucVPS / Ktvps@123` 
+
 
 ## Bản pro
 * Chạy trên hầu hết các VPS KVM (Vulr, Linode, Do) kể cả Oracle Cloud(gói free 1GB ram), Azure, Google Cloud, Clone Cone, SSD Nodes
@@ -43,5 +44,5 @@ Mật khẩu sẽ được đăng trong nhóm [Kiến Thức VPS](https://www.fa
 Liên hệ mua http://m.me/100028274061680
 
 ## Hỏi đáp và thông tin thêm
-Kiến Thức VPS: https://www.facebook.com/groups/kienthuc.vps
+Các bản build gz khác sẽ được chia sẻ tại [Kiến Thức VPS](https://www.facebook.com/groups/kienthuc.vps)
 
