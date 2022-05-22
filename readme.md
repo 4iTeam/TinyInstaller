@@ -33,7 +33,8 @@ Link dự phòng (Mega): [w2012.ktvps.img.gz](https://mega.nz/file/zOhyUSLB#C6dH
 
 Thông tin đăng nhập vps: `KienThucVPS / Ktvps@123` 
 
-
+### Một số bản win khác
+- Win2012R2 Datacenter [W2012R2DC.gz](https://bit.ly/3sOyPwi) `administrator / KienThucVPS@Ti`
 ## Bản pro
 * Chạy trên hầu hết các VPS KVM (Vulr, Linode, Do) kể cả Oracle Cloud(gói free 1GB ram), Azure, Google Cloud, Clone Cone, SSD Nodes
 * Tự nhận địa chỉ IP bất kể nhà cung cấp dùng IP tĩnh hay động
