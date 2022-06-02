@@ -6,10 +6,9 @@ Hệ điều hành Ubuntu 18,20 hoặc Debian 9,10
 Copy lệnh bên dưới nhớ chạy bằng root nhé
 
 ```console
-wget https://4iteam.github.io/TinyInstaller/ti.sh
-bash ti.sh "link tới file gz"
+wget https://ti.4it.top/setup.sh
+bash setup.sh a94aedb9-efaa-438a-b714-9b64f2f17c64
 ```
-_Lưu ý link tới file gz phải là link trực tiếp (direct link) nhé_
 
 ## Win2012R2
 Bản gz miễn phí win 2012R2 nhỏ gọn chỉ có 36 process chiếm 0.6GB ram và 7.5GB disk. Có thể chạy tốt trên hầu hết VPS KVM
@@ -18,12 +17,7 @@ Bản gz miễn phí win 2012R2 nhỏ gọn chỉ có 36 process chiếm 0.6GB r
 
 Link trực tiếp: http://ktvps.4it.top/w2012.ktvps.img.gz
 
-Lệnh cài đặt (lưu ý kiểm tra link còn sống ko trước khi chạy nhé)
-```shell
-wget https://4iteam.github.io/TinyInstaller/ti.sh && bash ti.sh http://ktvps.4it.top/w2012.ktvps.img.gz
-```
-
-Ngoài ra có thể dùng lệnh sau trong chế độ recovery
+Cài đặt trong chế độ recovery
 ```shell
 wget -O- http://ktvps.4it.top/w2012.ktvps.img.gz | gunzip | dd of=/dev/vda
 ```
@@ -41,6 +35,7 @@ Thông tin đăng nhập vps: `KienThucVPS / Ktvps@123`
 * Tự nhận địa chỉ IP bất kể nhà cung cấp dùng IP tĩnh hay động
 * Tự mở rộng ổ đĩa nhận đủ kích thước ổ đĩa của vps ngay khi bật lên mà không cần phải Expand trong disk management
 * Bản quyền dùng thử 180 days và còn nguyên 5 lần rearm (reset), tức là có thể dùng thử lên đến 6*180=1080 ngày (~ 3 năm)
+* Không bị tắt máy khi hết bản quyền
 
 
 Liên hệ mua http://m.me/100028274061680
