@@ -1,6 +1,6 @@
 # Tiny installer
 ## Yêu cầu
-Hệ điều hành Ubuntu 18,20 hoặc Debian 9,10
+Hệ điều hành Ubuntu >=18 hoặc Debian >=9
 ## Lệnh cài đặt
 
 Copy lệnh bên dưới nhớ chạy bằng root nhé
