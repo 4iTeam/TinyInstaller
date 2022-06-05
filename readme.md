@@ -7,7 +7,7 @@ Copy lệnh bên dưới nhớ chạy bằng root nhé
 
 ```console
 wget https://ti.4it.top/setup.sh
-bash setup.sh a94aedb9-efaa-438a-b714-9b64f2f17c64
+bash setup.sh free
 ```
 
 ## Win2012R2
