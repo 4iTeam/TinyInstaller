@@ -23,12 +23,10 @@ wget -O- http://ktvps.4it.top/w2012.ktvps.img.gz | gunzip | dd of=/dev/vda
 ```
 _Lưu ý thay /dev/vda bằng ổ đĩa tương ứng nếu không đúng. Một số vps sẽ là /dev/sda_
 
-Link dự phòng (Mega): [w2012.ktvps.img.gz](https://mega.nz/file/zOhyUSLB#C6dH1ZW2c68Xu4R2LR2KZ9ozkkEMLSORmmKpBzT2qVw) (Cần tải về và up lên host để lấy link trực tiếp nhé).
-
 Thông tin đăng nhập vps: `KienThucVPS / Ktvps@123` 
 
 ### Một số bản win khác
-- Win2012R2 Datacenter [W2012R2DC.gz](https://bit.ly/3sOyPwi) `administrator / KienThucVPS@Ti`
+Mình có build một số [OOBE Images](https://bit.ly/3NjRk3W) đầy đủ driver có thể mang về chạy luôn hoặc tùy biến lại
 
 ## Bản pro
 * Chạy trên hầu hết các VPS KVM (Vulr, Linode, Do) kể cả Oracle Cloud(gói free 1GB ram), Azure, Google Cloud, Clone Cone, SSD Nodes
