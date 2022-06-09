@@ -11,11 +11,11 @@ bash setup.sh free
 ```
 ## Bản free
 * Chỉ có 1 phiên bản *Window 2012 R2 Datacenter*
-* Hỗ trợ KVM
+* Hỗ trợ KVM (Vultr, Digitalocean, Linode,...)
 * Chỉ boot ở chế độ BIOS
-* **Không** tự nhận IP tĩnh
+* **Không** hỗ trợ ip tĩnh
 * Mật khẩu random
-* Không tắt máy khi hết bản quyền
+* Bản quyền dùng thử 180 ngày
 
 ### Một số bản win gz free
 Mình có build một số bản win gz ở trạng thái OOBE [Tại đây](https://bit.ly/3NjRk3W) đầy đủ driver có thể mang về chạy luôn hoặc tùy biến lại.
@@ -26,11 +26,10 @@ wget -O- {url} | gunzip | dd of=/dev/vda
 _Lưu ý thay url và /dev/vda bằng ổ đĩa tương ứng nếu không đúng. Một số vps sẽ là /dev/sda_
 
 ## Bản pro
-* Chạy tốt trên mọi VPS KVM (Vulr, Linode, Do) kể cả Oracle Cloud(gói free 1GB ram), Azure, Google Cloud, Clone Cone, SSD Nodes
-* Tự nhận địa chỉ IP bất kể nhà cung cấp dùng IP tĩnh hay động
-* Tự mở rộng ổ đĩa nhận đủ kích thước ổ đĩa của vps ngay khi bật lên mà không cần phải Expand trong disk management
-* Không bị tắt máy khi hết bản quyền
-* Đầy đủ các phiên bản windows 2012->2019 (có thể build thêm theo yêu cầu)
+* Đầy đủ images 2012R2, 2016, 2019
+* Được hỗ trợ update thêm images mới
+* Chạy tốt trên nhiều nhà cung cấp vps
+* Được test trước khi mua
 
 
 Liên hệ mua http://m.me/100028274061680
