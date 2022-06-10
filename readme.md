@@ -11,6 +11,7 @@ bash setup.sh free
 ```
 ## Bản free
 * Chỉ có 1 phiên bản *Window 2012 R2 Datacenter*
+* Không cần recovery/VNC
 * Hỗ trợ KVM (Vultr, Digitalocean, Linode,...)
 * Chỉ boot ở chế độ BIOS
 * **Không** hỗ trợ ip tĩnh
