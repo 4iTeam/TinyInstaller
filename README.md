@@ -1,5 +1,13 @@
 # TinyInstaller
-TinyInstaler là dịch vụ hỗ trợ cài đặt Windows trên VPS
+TinyInstaller là dịch vụ cài đặt Windows trên VPS đơn giản và dễ dàng. Với TinyInstaller, bạn có thể cài đặt Windows trên hầu hết các loại VPS, không cần sử dụng chế độ recovery/rescue. TinyInstaller cũng hỗ trợ cài đặt thông qua CloudInit script, mang đến cho bạn sự tiện lợi nhất có thể. Với TinyInstaller, trải nghiệm cài đặt Windows trên VPS chưa bao giờ dễ dàng và tiện lợi đến vậy. Hãy khám phá ngay!
+
+Dưới đây là một số tính năng của TinyInstaller:
+
+ - Đa dạng phiên bản Windows: TinyInstaller hỗ trợ cài đặt nhiều phiên bản Windows khác nhau, bao gồm Windows 10, Windows 8.1, Windows 7, Windows Server 2019, Windows Server 2016, Windows Server 2012 R2, Windows Server 2012, Windows Server 2008 R2, Windows Server 2008.
+ - Cài đặt dễ dàng: TinyInstaller có giao diện người dùng đơn giản và dễ sử dụng, giúp bạn cài đặt Windows trên VPS chỉ trong vài phút.
+ - Hỗ trợ cài đặt thông qua CloudInit script: TinyInstaller hỗ trợ cài đặt thông qua CloudInit script, giúp bạn tự động hóa quá trình cài đặt Windows trên VPS.
+Nếu bạn đang tìm kiếm một dịch vụ cài đặt Windows trên VPS đơn giản, dễ dàng và tiện lợi, thì TinyInstaller là lựa chọn tốt nhất cho bạn. Đăng ký TinyInstaller ngay hôm nay và trải nghiệm sự khác biệt!
+
 ## Yêu cầu
 Hệ điều hành Ubuntu >=18 hoặc Debian >=9
 ## Lệnh cài đặt
