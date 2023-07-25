@@ -9,7 +9,8 @@ Dưới đây là một số tính năng của TinyInstaller:
  - Hỗ trợ cấu hình tự động: VPS sau khi cài xong sẽ được tự động cấu hình IP, RDP, Firewall. Bạn có thể kết nối qua RDP ngay sau khi cài đặt hoàn tất.
 
 Nếu bạn đang tìm kiếm một dịch vụ cài đặt Windows trên VPS đơn giản, dễ dàng và tiện lợi, thì TinyInstaller là lựa chọn tốt nhất cho bạn. Đăng ký TinyInstaller ngay hôm nay và trải nghiệm sự khác biệt!
-
+## English
+English version available (here)[README-en.md]
 ## Yêu cầu
 Hệ điều hành Ubuntu >=18, Debian >=9, CentOS >=7
 ## Lệnh cài đặt
